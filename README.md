@@ -1,7 +1,5 @@
 ![portada-dfam](https://user-images.githubusercontent.com/66885411/110508486-08d9a900-80cf-11eb-8403-b8ae286b6451.png)
 
-# danielfelipearteaga.github.io
-
 ### Hola aquí estoy 👋
 # Mi nombre es Daniel Felipe Arteaga
 ### Soy Software Developer desde Medellín - Colombia
