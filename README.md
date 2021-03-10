@@ -1,4 +1,5 @@
-![portada-dfam](https://user-images.githubusercontent.com/66885411/110508486-08d9a900-80cf-11eb-8403-b8ae286b6451.png)
+![portada-dfam](https://user-images.githubusercontent.com/66885411/110572866-41f23780-8128-11eb-856a-cd905dc9c418.png)
+
 
 ### Hola aquí estoy 👋
 # Mi nombre es Daniel Felipe Arteaga
