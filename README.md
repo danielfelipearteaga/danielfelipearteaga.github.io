@@ -8,14 +8,13 @@
 
 ### 🔨 Lo que hago
 
-
+Comming soon!
 
 ### 📫 Puedes buscarme en:
 - [Twitter](https://twitter.com/dfarteagam) 🐦
 - [Instagram](https://instagram.com/danielfelipearteaga) 📸
 - [LinkedIn](https://linkedin.com/in/danielfelipearteaga) 💼
 - [Website](https://danielfelipearteaga.com) 🌍
-- [Blog](https://danielfelipearteaga.com) ✒️
 
 <!--
 **danielfelipearteaga/danielfelipearteaga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
